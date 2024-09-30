@@ -1,0 +1,51 @@
+---
+title: "Encuesta microestablecimientos 2016"
+author: 
+ - Autor1, autor2, autor3. 
+ - Programa. 
+ - Unidad de estudio.
+date: ""
+output:
+  html_document:
+    highlight: tango
+    number_sections: yes
+    theme: united
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  word_document:
+    toc: yes
+---
+
+
+
+```{r}
+# Definan el directorio de trabajo. Oculten este bloque de código.
+
+```
+
+
+```{r}
+# Carguen el conjunto de datos. Oculten esten bloque de código.
+
+```
+
+
+# Contextualización. 
+
+# Elección de variables.
+
+# Análisis descriptivo.
+
+# Distribución del total de ventas o ingresos.
+
+# Estimaciones.
+
+# Estrategías.
+
+# Limitaciones u oportunidades.
+
+# Referencias.
